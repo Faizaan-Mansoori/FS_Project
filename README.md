@@ -1,2 +1,4 @@
 # FS_Project
-This is my Development Project
+Author - Faizaan Mansoori
+<br>
+My Development Project
